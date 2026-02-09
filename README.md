@@ -162,7 +162,6 @@ const sourav = {
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=souravnanda06&bg_color=0d1117&color=58a6ff&line=1f6feb&point=e6edf3&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="95%"/>
-
 </div>
 
 <br/>
@@ -223,7 +222,7 @@ My code works on my machine. Unfortunately, production isn't my machine.
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;
-<a href="https://www.youtube.com/c/@souravnanda06" target="_blank">
+<a href="https://youtube.com/@souravnanda06?si=D3NVoQPRJ1wvFsck" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
 
