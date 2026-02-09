@@ -97,6 +97,20 @@ const sourav = {
 <br/><sub><b>Figma</b></sub>
 </td>
 </tr>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br/><sub><b>Postman</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br/><sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+<br/><sub><b>Flutter</b></sub>
+</td>
+</tr>
 </table>
 
 </div>
