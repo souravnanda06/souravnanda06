@@ -1,36 +1,243 @@
-<h1 align="center">Hi 👋, I'm Sourav</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souravnanda06&label=Profile%20views&color=0e75b6&style=flat" alt="souravnanda06" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Sourav%20Nanda&fontSize=72&fontColor=e6edf3&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer&descSize=18&descAlignY=55&descColor=8b949e" width="100%" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravnanda06" alt="souravnanda06" /></a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%24+building+things+that+actually+work;%24+turning+caffeine+into+code+since+forever" alt="Typing SVG" /></a>
 
-<p align="left"> <a href="https://twitter.com/souravnanda06" target="blank"><img src="https://img.shields.io/twitter/follow/souravnanda06?logo=twitter&style=for-the-badge" alt="souravnanda06" /></a> </p>
+<br/>
 
-- 🌱 I’m currently learning **Backend**
+<img src="https://komarev.com/ghpvc/?username=souravnanda06&label=visitors&color=1f6feb&style=flat-square" alt="profile views" />
+&nbsp;
+<a href="https://github.com/souravnanda06?tab=followers"><img src="https://img.shields.io/github/followers/souravnanda06?label=followers&color=238636&style=flat-square&logo=github" alt="followers" /></a>
 
-- 💬 Ask me about **React , Express , UI/UX**
+</div>
 
-- 📫 How to reach me **nandasourav766@gmail.com**
+<br/>
 
-- ⚡ Fun fact **Funny enough to annoy people.**
+<!-- ABOUT -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/souravnanda06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="souravnanda06" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/souravnanda06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/souravnanda06/" height="30" width="40" /></a>
-<a href="https://instagram.com/souravnanda06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="souravnanda06" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@ervo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ervo" height="30" width="40" /></a>
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="55%" valign="top">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### &nbsp; About Me
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/souravnanda06"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="souravnanda06" /></a></p><br><br>
+```js
+const sourav = {
+  location: "India 🇮🇳",
+  focus: ["Full-Stack Dev", "AI / ML"],
+  code: ["JavaScript", "Node.js", "HTML", "CSS"],
+  tools: ["Express", "MongoDB", "React", "Git"],
+  architecture: ["MVC", "REST APIs", "Microservices"],
+  currentMood: "Debugging something I broke 
+                while fixing something else."
+};
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souravnanda06&show_icons=true&locale=en&layout=compact" alt="souravnanda06" /></p>
+</td>
+<td width="45%" valign="top" align="center">
+<br/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="coding gif"/>
+</td>
+</tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravnanda06&show_icons=true&locale=en" alt="souravnanda06" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravnanda06&" alt="souravnanda06" /></p>
+<!-- TECH STACK -->
+
+<div align="center">
+
+## 🛠 &nbsp; Tech Arsenal
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+<br/><sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+<br/><sub><b>CSS3</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br/><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br/><sub><b>React</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br/><sub><b>Tailwind</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br/><sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br/><sub><b>Express</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br/><sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br/><sub><b>Git</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br/><sub><b>Figma</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- CURRENTLY -->
+
+<div align="center">
+
+## ⚡ &nbsp; What I'm Up To
+
+</div>
+
+<br/>
+
+<div align="center">
+
+🔭 &nbsp; Building full-stack apps that don't just work — they **scale**
+
+🧠 &nbsp; Deep-diving into **AI/ML** and figuring out how to make machines slightly less dumb
+
+🌱 &nbsp; Currently leveling up in **system design** and **cloud architecture**
+
+🤝 &nbsp; Open to collaborating on **open-source projects** that solve real problems
+
+</div>
+
+<br/>
+
+<!-- GITHUB STATS -->
+
+<div align="center">
+
+## 📊 &nbsp; GitHub Analytics
+
+<br/>
+
+<a href="https://github.com/souravnanda06">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=souravnanda06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="Sourav's GitHub Stats" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravnanda06&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=souravnanda06&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=souravnanda06&bg_color=0d1117&color=58a6ff&line=1f6feb&point=e6edf3&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="95%"/>
+
+</a>
+</div>
+
+<br/>
+
+<!-- PROJECTS -->
+
+<div align="center">
+
+## 🚀 &nbsp; Featured Projects
+
+<br/>
+
+<a href="https://github.com/souravnanda06?tab=repositories">
+<img src="https://img.shields.io/badge/See%20All%20Projects-%E2%86%92-1f6feb?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="All Projects" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/souravnanda06?tab=repositories&sort=stargazers">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=souravnanda06&repo=souravnanda06&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Pinned Repo" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- FUN FACT -->
+
+<div align="center">
+
+## 💬 &nbsp; Fun Fact
+
+<br/>
+
+```
+I mass-produce bugs so fast that my debugger filed a restraining order.
+My code works on my machine. Unfortunately, production isn't my machine.
+```
+
+</div>
+
+<br/>
+
+<!-- CONNECT -->
+
+<div align="center">
+
+## 🔗 &nbsp; Let's Connect
+
+<br/>
+<a href="https://www.linkedin.com/in/souravnanda06/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://twitter.com/souravnanda06" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+&nbsp;
+<a href="https://instagram.com/souravnanda06" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+&nbsp;
+<a href="mailto:nandasourav766@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+&nbsp;
+<a href="https://www.youtube.com/c/@ervo" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- SNAKE -->
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" />
+</picture>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
+
+<div align="center">
+<sub>Built with obsessive attention to detail and an unreasonable amount of Markdown.</sub>
+</div>
