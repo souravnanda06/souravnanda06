@@ -209,6 +209,22 @@ My code works on my machine. Unfortunately, production isn't my machine.
 
 <br/>
 
+<!-- SUPPORT -->
+
+<div align="center">
+
+## ☕ &nbsp; Support My Work
+
+<br/>
+
+<a href="https://buymeacoffee.com/souravnanda06" target="_blank">
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=0d1117" alt="Buy Me A Coffee" />
+</a>
+
+</div>
+
+<br/>
+
 <!-- SNAKE -->
 
 <div align="center">
