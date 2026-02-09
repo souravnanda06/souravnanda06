@@ -135,21 +135,12 @@ const sourav = {
 
 <br/>
 
-<a href="https://github.com/souravnanda06">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=souravnanda06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="Sourav's GitHub Stats" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravnanda06&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</a>
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=souravnanda06&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681" alt="GitHub Streak" />
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=souravnanda06&bg_color=0d1117&color=58a6ff&line=1f6feb&point=e6edf3&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="95%"/>
 
-</a>
 </div>
 
 <br/>
@@ -163,13 +154,7 @@ const sourav = {
 <br/>
 
 <a href="https://github.com/souravnanda06?tab=repositories">
-<img src="https://img.shields.io/badge/See%20All%20Projects-%E2%86%92-1f6feb?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="All Projects" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/souravnanda06?tab=repositories&sort=stargazers">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=souravnanda06&repo=souravnanda06&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Pinned Repo" />
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-%E2%86%92-1f6feb?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="All Projects" />
 </a>
 
 </div>
