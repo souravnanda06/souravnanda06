@@ -110,6 +110,10 @@ const sourav = {
 <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
 <br/><sub><b>Flutter</b></sub>
 </td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
+<br/><sub><b>Android Studio</b></sub>
+</td>
 </tr>
 </table>
 
