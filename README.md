@@ -223,7 +223,7 @@ My code works on my machine. Unfortunately, production isn't my machine.
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;
-<a href="https://www.youtube.com/c/@ervo06" target="_blank">
+<a href="https://www.youtube.com/c/@souravnanda06" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
 
